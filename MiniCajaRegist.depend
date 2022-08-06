@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1659732042 source:c:\users\wposs\documents\c\minicajaregist\productos.c
+	<stdio.h>
+	<conio.h>
+	"productos.h"
+
+1659732952 c:\users\wposs\documents\c\minicajaregist\productos.h
+
+1659731966 source:c:\users\wposs\documents\c\minicajaregist\main.c
+	<stdio.h>
+	<conio.h>
+	"ventas.h"
+	"productos.h"
+	"ususarios.h"
+
+1659732393 c:\users\wposs\documents\c\minicajaregist\ventas.h
+	"ususarios.h"
+	"productos.h"
+
+1659732309 source:c:\users\wposs\documents\c\minicajaregist\ventas.c
+	<stdio.h>
+	<conio.h>
+	"ventas.h"
+
+1659707952 source:c:\users\wposs\documents\c\minicajaregist\pedidos.c
+
+1659731886 source:c:\users\wposs\documents\c\minicajaregist\ususarios.c
+	<stdio.h>
+	<conio.h>
+	"ususarios.h"
+
+1659732898 c:\users\wposs\documents\c\minicajaregist\ususarios.h
+
+1659798472 source:c:\users\yhonj\onedrive\documentos\c\minicajaregist\productos.c
+	<stdio.h>
+	<conio.h>
+	"productos.h"
+
+1659798472 c:\users\yhonj\onedrive\documentos\c\minicajaregist\productos.h
+
+1659797644 source:c:\users\yhonj\onedrive\documentos\c\minicajaregist\ventas.c
+	<stdio.h>
+	<conio.h>
+	"ventas.h"
+
+1659797644 c:\users\yhonj\onedrive\documentos\c\minicajaregist\ventas.h
+	"ususarios.h"
+	"productos.h"
+
+1659732900 c:\users\yhonj\onedrive\documentos\c\minicajaregist\ususarios.h
+
+1659797995 source:c:\users\yhonj\onedrive\documentos\c\minicajaregist\main.c
+	<stdio.h>
+	<conio.h>
+	"productos.h"
+
